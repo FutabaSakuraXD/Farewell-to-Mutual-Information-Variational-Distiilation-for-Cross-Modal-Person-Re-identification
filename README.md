@@ -3,7 +3,7 @@
 PyTorch implementation of the Variational Distillation framework from "Farewell to Mutual Information Variational Distiilation for Cross-Modal Person Re-identification".
 
 <div align=center>
-<img src='images/framework.pdf' width='800'>
+<img src='images/framework.jpg' width='800'>
 </div>
 
 Please read [our paper](https://arxiv.org/abs/2104.02862) for a more detailed description of the training procedure.
@@ -67,7 +67,13 @@ RegDB
 
 ## Visualization
 2-D projection of the embedding space obtained by using t-SNE. The results are obtained from our method and the conventional information bottleneck on SYSU-MM01 dataset. Different colors are used to denote different person IDs.
-![projections](images/embedding_spaces.png)
+
+<div align=center>
+<img src='images/embedding_spaces.png' width='800'>
+</div>
+
 In addition, we plot the joint embedding space of data from different modals for better visualization. Note more descriptions and details could be found in [our paper](https://arxiv.org/abs/2104.02862).
 
-![projections](images/joint_embedding_spaces.png)
+<div align=center>
+<img src='images/joint_embedding_spaces.png' width='800'>
+</div>
