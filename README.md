@@ -42,21 +42,21 @@ This project provides code to train and evaluate different architectures under b
     - RegDB: You can directly run `/RegDB_test/RegDB_test.py` to obtain Visible-Thermal performance, and change the default settings to evaluate the model under another setting, i.e., Thermal-Visible.
 
 ## Results
-    - SYSU-MM01 (all-search mode)
+SYSU-MM01 (all-search mode)
 | Metric    | Value  |
 | Rank1 | 60.02\% |
 | Rank10 | 94.18\% |
 | Rank20 | 98.14\% |
 | mAP | 58.80\% |
 
-    - SYSU-MM01 (indoor-search mode)
+SYSU-MM01 (indoor-search mode)
 | Metric    | Value  |
 | Rank1 | 66.05\% |
 | Rank10 | 96.59\% |
 | Rank20 | 99.38\% |
 | mAP | 72.98\% |
 
-    - RegDB
+RegDB
 | Mode    | Rank-1 (mAP)  |
 | Visible-Thermal | 73.2\% (71.6\%) |
 | Thermal-Visible | 71.8\% (70.1\%) |
