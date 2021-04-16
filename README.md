@@ -30,6 +30,7 @@ year={2021}
 4. Prepare datasets    
     - Download RegDB
     - Download [SYSU-MM01](https://github.com/wuancong/SYSU-MM01)
+
     Create a directory to store the required datasets under this project or outside this project, and remember to set `--data-dir` to the right path before training.
 
 ## Train
