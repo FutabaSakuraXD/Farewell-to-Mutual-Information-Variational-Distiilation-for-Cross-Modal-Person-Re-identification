@@ -1,6 +1,6 @@
 # Farewell to Mutual Information Variational Distiilation for Cross-Modal Person Re-identification
 
-PyTorch implementation of the Variational Distillation framework from "Farewell to Mutual Information Variational Distiilation for Cross-Modal Person Re-identification".
+Official implementation of the Variational Distillation framework from "Farewell to Mutual Information Variational Distiilation for Cross-Modal Person Re-identification".
 
 <div align=center>
 <img src='images/framework.jpg' width='640'>
