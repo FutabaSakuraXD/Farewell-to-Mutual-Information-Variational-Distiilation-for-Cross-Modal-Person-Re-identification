@@ -2,7 +2,9 @@
 
 PyTorch implementation of the Variational Distillation framework from "Farewell to Mutual Information Variational Distiilation for Cross-Modal Person Re-identification".
 
-![Visualization of the Variational Distillation Framework](images/framework.pdf)
+<div align=center>
+<img src='images/framework.pdf' width='800'>
+</div>
 
 Please read [our paper](https://arxiv.org/abs/2104.02862) for a more detailed description of the training procedure.
 
