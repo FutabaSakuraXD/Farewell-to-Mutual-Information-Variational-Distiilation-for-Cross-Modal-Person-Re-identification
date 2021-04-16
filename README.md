@@ -1,0 +1,1 @@
+# Farewell-to-Mutual-Information-Variational-Distiilation-for-Cross-Modal-Person-Re-identification
