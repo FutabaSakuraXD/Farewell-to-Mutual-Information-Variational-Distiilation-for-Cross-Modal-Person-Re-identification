@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb04df3f-8a7b-472f-bbfe-e6dba3142006" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Farewell-to-Mutual-Information-Variational-Distiilation-for-Cross-Modal-Person-Re-identification" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1aNG6n3xlV8BCWk5NJtWS13DZPl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cross_reid.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\txd25\Desktop\acmmm2020" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.evaluate_SYSU_MM01">
+    <configuration name="RegDB_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zzz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RegDB_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RegDB_test/RegDB_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cross_reid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zzz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cross_reid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evaluate_SYSU_MM01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zzz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/evaluation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/evaluation/evaluate_SYSU_MM01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="extract_feature" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zzz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extract_feature.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="regdb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zzz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regdb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.evaluate_SYSU_MM01" />
+        <item itemvalue="Python.RegDB_test" />
+        <item itemvalue="Python.regdb" />
+        <item itemvalue="Python.cross_reid" />
+        <item itemvalue="Python.extract_feature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb04df3f-8a7b-472f-bbfe-e6dba3142006" name="Default Changelist" comment="" />
+      <created>1586568464470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586568464470</updated>
+      <workItem from="1586568467403" duration="51000" />
+      <workItem from="1586568530295" duration="3559000" />
+      <workItem from="1586591568343" duration="6604000" />
+      <workItem from="1586599588762" duration="3154000" />
+      <workItem from="1586650602333" duration="2423000" />
+      <workItem from="1586682917355" duration="50000" />
+      <workItem from="1586683224994" duration="4964000" />
+      <workItem from="1586951496250" duration="806000" />
+      <workItem from="1586952589384" duration="12000" />
+      <workItem from="1587082502315" duration="662000" />
+      <workItem from="1587093796694" duration="387000" />
+      <workItem from="1587366512894" duration="19000" />
+      <workItem from="1597908544902" duration="9325000" />
+      <workItem from="1597971697483" duration="22096000" />
+      <workItem from="1598058160728" duration="20878000" />
+      <workItem from="1598111758609" duration="88000" />
+      <workItem from="1598144654178" duration="14000" />
+      <workItem from="1598144702238" duration="6283000" />
+      <workItem from="1598168029628" duration="7419000" />
+      <workItem from="1598181196425" duration="2221000" />
+      <workItem from="1598196159917" duration="1053000" />
+      <workItem from="1598226962029" duration="1032000" />
+      <workItem from="1598235589283" duration="10984000" />
+      <workItem from="1598278405086" duration="2833000" />
+      <workItem from="1598317295166" duration="3448000" />
+      <workItem from="1598432198645" duration="3597000" />
+      <workItem from="1598491502036" duration="22080000" />
+      <workItem from="1598577292538" duration="13473000" />
+      <workItem from="1598664095675" duration="12581000" />
+      <workItem from="1598751677194" duration="6994000" />
+      <workItem from="1598802007548" duration="2131000" />
+      <workItem from="1598833409857" duration="2865000" />
+      <workItem from="1598843802031" duration="56000" />
+      <workItem from="1598919678138" duration="3085000" />
+      <workItem from="1598929469205" duration="584000" />
+      <workItem from="1598943686228" duration="63000" />
+      <workItem from="1598951346465" duration="3035000" />
+      <workItem from="1598974834722" duration="430000" />
+      <workItem from="1599005918282" duration="116000" />
+      <workItem from="1599006068560" duration="259000" />
+      <workItem from="1599016797659" duration="592000" />
+      <workItem from="1599030988394" duration="7848000" />
+      <workItem from="1599094833231" duration="11659000" />
+      <workItem from="1599181127520" duration="3195000" />
+      <workItem from="1599299315137" duration="5954000" />
+      <workItem from="1599352897725" duration="426000" />
+      <workItem from="1599356383385" duration="4655000" />
+      <workItem from="1599376714284" duration="102000" />
+      <workItem from="1599444021037" duration="1563000" />
+      <workItem from="1599477222286" duration="1492000" />
+      <workItem from="1599491610993" duration="364000" />
+      <workItem from="1599524565131" duration="6481000" />
+      <workItem from="1599552078928" duration="365000" />
+      <workItem from="1599560561069" duration="41000" />
+      <workItem from="1599611013865" duration="1351000" />
+      <workItem from="1599616956322" duration="4657000" />
+      <workItem from="1599652867641" duration="235000" />
+      <workItem from="1599697524318" duration="1295000" />
+      <workItem from="1599704100663" duration="3654000" />
+      <workItem from="1599719104988" duration="1473000" />
+      <workItem from="1599783431854" duration="1746000" />
+      <workItem from="1599790087080" duration="2731000" />
+      <workItem from="1599803860678" duration="1248000" />
+      <workItem from="1599820587543" duration="2566000" />
+      <workItem from="1599870508936" duration="970000" />
+      <workItem from="1599956535981" duration="5208000" />
+      <workItem from="1599992476177" duration="55000" />
+      <workItem from="1600160672134" duration="100000" />
+      <workItem from="1600168363633" duration="3322000" />
+      <workItem from="1600216374210" duration="449000" />
+      <workItem from="1600259723745" duration="2429000" />
+      <workItem from="1600303044793" duration="1083000" />
+      <workItem from="1600305063961" duration="2414000" />
+      <workItem from="1600319430089" duration="2019000" />
+      <workItem from="1600331255462" duration="407000" />
+      <workItem from="1600336471313" duration="3522000" />
+      <workItem from="1600342804212" duration="1001000" />
+      <workItem from="1600389416668" duration="690000" />
+      <workItem from="1600408227118" duration="3376000" />
+      <workItem from="1600477693676" duration="1827000" />
+      <workItem from="1600561132366" duration="694000" />
+      <workItem from="1600581388347" duration="2816000" />
+      <workItem from="1600601491733" duration="1366000" />
+      <workItem from="1600603909903" duration="563000" />
+      <workItem from="1600647825609" duration="393000" />
+      <workItem from="1600652958038" duration="2924000" />
+      <workItem from="1600683443500" duration="1111000" />
+      <workItem from="1600685442193" duration="180000" />
+      <workItem from="1600689762723" duration="1225000" />
+      <workItem from="1600733817621" duration="1183000" />
+      <workItem from="1600754200812" duration="812000" />
+      <workItem from="1600819839426" duration="1499000" />
+      <workItem from="1600827574107" duration="2170000" />
+      <workItem from="1600831633314" duration="313000" />
+      <workItem from="1600849941014" duration="105000" />
+      <workItem from="1600906177721" duration="495000" />
+      <workItem from="1600960742128" duration="611000" />
+      <workItem from="1600993373548" duration="1278000" />
+      <workItem from="1601000060230" duration="1671000" />
+      <workItem from="1601004293852" duration="151000" />
+      <workItem from="1601013725394" duration="568000" />
+      <workItem from="1602298855876" duration="371000" />
+      <workItem from="1614578919490" duration="996000" />
+      <workItem from="1614588127759" duration="6000" />
+      <workItem from="1614595862091" duration="990000" />
+      <workItem from="1614596882830" duration="1958000" />
+      <workItem from="1614645482221" duration="860000" />
+      <workItem from="1614646378551" duration="55000" />
+      <workItem from="1614737614257" duration="849000" />
+      <workItem from="1614738985041" duration="23000" />
+      <workItem from="1614739316219" duration="1174000" />
+      <workItem from="1614740577913" duration="1019000" />
+      <workItem from="1614751255815" duration="19000" />
+      <workItem from="1614752954693" duration="46000" />
+      <workItem from="1614753024620" duration="83000" />
+      <workItem from="1614755022847" duration="174000" />
+      <workItem from="1614756377900" duration="373000" />
+      <workItem from="1614759005106" duration="348000" />
+      <workItem from="1614770620815" duration="18000" />
+      <workItem from="1614770648832" duration="14000" />
+      <workItem from="1614818787208" duration="1179000" />
+      <workItem from="1614822737936" duration="771000" />
+      <workItem from="1614837550174" duration="179000" />
+      <workItem from="1614844627376" duration="100000" />
+      <workItem from="1614905024202" duration="474000" />
+      <workItem from="1614922488683" duration="647000" />
+      <workItem from="1615170734082" duration="233000" />
+      <workItem from="1615171087408" duration="28000" />
+      <workItem from="1615444605368" duration="275000" />
+      <workItem from="1615444894119" duration="8438000" />
+      <workItem from="1615460423217" duration="3525000" />
+      <workItem from="1615464419268" duration="2727000" />
+      <workItem from="1616153258683" duration="67000" />
+      <workItem from="1616207544101" duration="24000" />
+      <workItem from="1616312815225" duration="33000" />
+      <workItem from="1616468355494" duration="760000" />
+      <workItem from="1616490460060" duration="309000" />
+      <workItem from="1616496739309" duration="2046000" />
+      <workItem from="1616552504684" duration="2833000" />
+      <workItem from="1616738941527" duration="1655000" />
+      <workItem from="1616757707503" duration="1277000" />
+      <workItem from="1616806926293" duration="375000" />
+      <workItem from="1616807341032" duration="2436000" />
+      <workItem from="1616809823939" duration="1989000" />
+      <workItem from="1616827678709" duration="250000" />
+      <workItem from="1617066573267" duration="2540000" />
+      <workItem from="1618537122685" duration="283000" />
+      <workItem from="1618537586406" duration="9000" />
+      <workItem from="1618537663608" duration="28000" />
+      <workItem from="1618537709516" duration="538000" />
+      <workItem from="1618539716184" duration="1865000" />
+      <workItem from="1618542395655" duration="799000" />
+      <workItem from="1618553389622" duration="1176000" />
+      <workItem from="1618563042773" duration="1161000" />
+      <workItem from="1618571227196" duration="1000" />
+      <workItem from="1618709894203" duration="125000" />
+      <workItem from="1618810980320" duration="16000" />
+      <workItem from="1618969306558" duration="638000" />
+      <workItem from="1619056185091" duration="127000" />
+      <workItem from="1619059429714" duration="852000" />
+      <workItem from="1619574260634" duration="47000" />
+      <workItem from="1622943847402" duration="771000" />
+      <workItem from="1624331814967" duration="287000" />
+      <workItem from="1624587624682" duration="2724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Variational_Distillation$extract_feature.coverage" NAME="extract_feature Coverage Results" MODIFIED="1615465808406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Variational_Distillation$cross_reid.coverage" NAME="cross_reid Coverage Results" MODIFIED="1615467082714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Variational_Distillation$RegDB_test.coverage" NAME="RegDB_test Coverage Results" MODIFIED="1618563049022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RegDB_test" />
+    <SUITE FILE_PATH="coverage/Variational_Distillation$consistency.coverage" NAME="consistency Coverage Results" MODIFIED="1615453588976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Variational_Distillation$regdb.coverage" NAME="regdb Coverage Results" MODIFIED="1616758650444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Variational_Distillation$evaluate_SYSU_MM01.coverage" NAME="evaluate_SYSU_MM01 Coverage Results" MODIFIED="1619059438178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/evaluation" />
+    <SUITE FILE_PATH="coverage/zzz$rank_reid.coverage" NAME="rank_reid Coverage Results" MODIFIED="1586569474560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/acmmm2020$cross_reid.coverage" NAME="cross_reid Coverage Results" MODIFIED="1586651463200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/acmmm2020$extract_feature.coverage" NAME="extract_feature Coverage Results" MODIFIED="1586688976320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

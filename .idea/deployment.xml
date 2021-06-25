@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="txd@172.23.132.113:22">
+    <serverData>
+      <paths name="txd@172.23.132.113:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/txd/Variational Distillation" local="$PROJECT_DIR$" web="/home/txd/Variational Distillation" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="txd@49.52.10.175:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/txd/zzz" local="$PROJECT_DIR$" web="/home/txd/zzz" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="txd@49.52.10.209:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/txd/acmmm2020" local="$PROJECT_DIR$" web="/home/txd/acmmm2020" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zzz@172.18.76.24:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
