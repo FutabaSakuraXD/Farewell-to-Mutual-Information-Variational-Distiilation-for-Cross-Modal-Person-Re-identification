@@ -1,4 +1,4 @@
-# Farewell to Mutual Information Variational Distiilation for Cross-Modal Person Re-identification
+# Farewell to Mutual Information: Variational Distiilation for Cross-Modal Person Re-identification
 
 Official implementation of the Variational Distillation framework from "Farewell to Mutual Information: Variational Distiilation for Cross-Modal Person Re-identification (CVPR' 21 oral)".
 
